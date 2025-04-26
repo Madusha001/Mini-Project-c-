@@ -1,0 +1,66 @@
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\bin\Debug\net8.0-windows\School Managment System.exe
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\bin\Debug\net8.0-windows\School Managment System.deps.json
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\bin\Debug\net8.0-windows\School Managment System.runtimeconfig.json
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\bin\Debug\net8.0-windows\School Managment System.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\bin\Debug\net8.0-windows\School Managment System.pdb
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School_Managment_System.Form1.resources
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School_Managment_System.Properties.Resources.resources
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School Managment System.csproj.GenerateResource.cache
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School Managment System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School Managment System.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School Managment System.AssemblyInfo.cs
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School Managment System.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School Managment System.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\refint\School Managment System.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School Managment System.pdb
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School Managment System.genruntimeconfig.cache
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\ref\School Managment System.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School Managment System.csproj.AssemblyReference.cache
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School_Managment_System.Main.resources
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School M.08DF5A52.Up2Date
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School_Managment_System.Student.resources
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School_Managment_System.Subject.resources
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School_Managment_System.Teacher.resources
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School_Managment_System.Section.resources
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School_Managment_System.Enrollment.resources
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School_Managment_System.Attendance.resources
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School_Managment_System.Dashboard.resources
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\bin\Debug\net8.0-windows\School Managment System.exe
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\bin\Debug\net8.0-windows\School Managment System.deps.json
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\bin\Debug\net8.0-windows\School Managment System.runtimeconfig.json
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\bin\Debug\net8.0-windows\School Managment System.dll
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\bin\Debug\net8.0-windows\School Managment System.pdb
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School Managment System.csproj.AssemblyReference.cache
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School_Managment_System.Attendance.resources
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School_Managment_System.Dashboard.resources
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School_Managment_System.Enrollment.resources
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School_Managment_System.Form1.resources
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School_Managment_System.Main.resources
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School_Managment_System.Properties.Resources.resources
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School_Managment_System.Section.resources
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School_Managment_System.Student.resources
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School_Managment_System.Subject.resources
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School_Managment_System.Teacher.resources
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School Managment System.csproj.GenerateResource.cache
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School Managment System.GeneratedMSBuildEditorConfig.editorconfig
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School Managment System.AssemblyInfoInputs.cache
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School Managment System.AssemblyInfo.cs
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School Managment System.csproj.CoreCompileInputs.cache
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School M.08DF5A52.Up2Date
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School Managment System.dll
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\refint\School Managment System.dll
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School Managment System.pdb
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\School Managment System.genruntimeconfig.cache
+H:\Second Year\First Semester\Pactial Destop\c# code\Zoom Lec Advance Computer Programming\School Managment System\School Managment System\obj\Debug\net8.0-windows\ref\School Managment System.dll
